@@ -1,15 +1,18 @@
 pandas
-mlflow
-notebook
 numpy
 scikit-learn
 matplotlib
-python-box
-pyYAML
+notebook
+mlflow
 tqdm
-ensure
 joblib
-types-PyYAML
 Flask
 Flask-Cors
-    
+ipykernel
+
+# Config & utilities
+pyYAML
+types-PyYAML
+python-box
+ensure-annotations
+
